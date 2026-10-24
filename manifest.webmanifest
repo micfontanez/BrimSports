@@ -1,0 +1,19 @@
+{
+  "name": "BrimSports",
+  "short_name": "BrimSports",
+  "description": "Your personal sports board for favorite teams, scores, schedules, standings and Sports Day.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#060a12",
+  "theme_color": "#070b14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
